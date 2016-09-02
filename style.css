@@ -1,3 +1,8 @@
 body {
-  background-image: url(http://vignette3.wikia.nocookie.net/minecraft/images/5/50/Wiki-background/revision/20150401213801);
+  background-color: skyblue;
+}
+@import 'https://fonts.googleapis.com/css?family=Nova+Square';
+p{
+  color: blue;
+  font-family: Nova Square;
 }
