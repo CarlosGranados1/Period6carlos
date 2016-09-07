@@ -2,6 +2,10 @@
 body {
   background-color: skyblue;
 }
+h1 {
+  color: blue;
+  font-family: Nova Square;
+}
 p {
   color: blue;
   font-family: Nova Square;
