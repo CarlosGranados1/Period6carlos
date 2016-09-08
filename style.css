@@ -2,6 +2,11 @@
 body {
   background-color: skyblue;
 }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 h1 {
   color: blue;
   font-family: Nova Square;
